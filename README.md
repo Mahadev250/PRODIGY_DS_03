@@ -54,6 +54,6 @@ plot_tree(clf, filled=True, feature_names=X.columns, class_names=["No", "Yes"])
 plt.title("Decision Tree for Bank Marketing Prediction")
 plt.show()
 
+![image](https://github.com/user-attachments/assets/4b46e1fc-5f95-44b0-bc78-d6800bcd5d3d)
 ![Screenshot 2025-06-16 174920](https://github.com/user-attachments/assets/49a68054-6f47-435b-8ba3-beab830d2bc9)
 ![Screenshot 2025-06-16 174948](https://github.com/user-attachments/assets/104464c8-26fa-4bfa-bb75-5b2b5e7cc4c1)
-
